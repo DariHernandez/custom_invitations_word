@@ -10,6 +10,7 @@ Run the main.py by terminal.
 **$ python3 mian.py**
 
 ## Screenshots
+![Screenshot of invitations](https://github.com/DariHernandez/custom_invitations_word/raw/master/invitations.jpg)
 
 ---
 
