@@ -9,9 +9,6 @@ Run the main.py by terminal.
 ## Example to use
 **$ python3 mian.py**
 
-## Screenshots
-![Screenshot of invitations](https://github.com/DariHernandez/custom_invitations_word/raw/master/invitations.jpg)
-
 ---
 
 # custom_invitations_word (ESPAÑOL)
@@ -24,5 +21,6 @@ Ejecute el script main.py desde la terminal
 
 ## Ejemplo de uso
 **$ python3 mian.py**
-
-
+---
+## Screenshots
+![Screenshot of invitations](https://github.com/DariHernandez/custom_invitations_word/raw/master/invitations.jpg)
